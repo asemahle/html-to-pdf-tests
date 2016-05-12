@@ -8,18 +8,26 @@ Testing ground for wkhtmltopdf, PrinceXML, and DocRaptor
 | **How**  | Uses webkit to render page and generate PDF  | Mysterious closed source  | Uses PrinceXML and a Javascript preprocessor  |
 
 ## WkHtmltoPdf
+##### Pros
+- Best 'out-of-the-box' CSS rendering
 ##### Known Cons
+- Jquery sizing can cause glitches
 - Only a small team actively working on it
 - Many known bugs
 - Replies to questions are not guaranteed
 - Highlighting text in PDF looks bad (try downloading one of the test WK pdfs to see what I mean)
 
 ## PrinceXML
+##### Cons
+- Includes upgrades and email support for 1 year
 ##### Known Cons
 - Poor Javascript support. Cannot handle highcharts
 - CSS for fonts is not as good as WkHtmlToPdf
 
 ## DocRaptor
+##### Pros
+- Best highcharts rendering
+- Provide support through DocRaptor site (chat bubble interface like what we have on the ninjacat site)
 ##### Known Cons
 - Better JS support than Prince, but not great (will fail to build PDF if *anything* is written to the console)
 - CSS for fonts is not as good as WkHtmlToPdf
