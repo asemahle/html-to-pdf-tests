@@ -19,7 +19,7 @@ Testing ground for wkhtmltopdf, PrinceXML, and DocRaptor
 - Highlighting text in PDF looks bad (try downloading one of the test WK pdfs to see what I mean)
 
 ## PrinceXML
-##### Cons
+##### Pros
 - Includes upgrades and email support for 1 year
 
 ##### Known Cons
