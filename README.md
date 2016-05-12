@@ -9,7 +9,7 @@ Testing ground for wkhtmltopdf, PrinceXML, and DocRaptor
 
 ## WkHtmltoPdf
 ##### Pros
-- Best 'out-of-the-box' CSS rendering
+- Best 'out-of-the-box' CSS and JS rendering
 
 ##### Known Cons
 - Jquery sizing can cause glitches
